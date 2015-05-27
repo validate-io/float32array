@@ -26,7 +26,17 @@
     "validate.io",
     "validate",
     "validation",
-    "validator"
+    "validator",
+    "valid",
+    "is",
+    "array",
+    "typed",
+    "typed array",
+    "float32array",
+    "isfloat32array",
+    "class",
+    "constructor",
+    "instance"
   ],
   "bugs": {
     "url": "https://github.com/validate-io/float32array/issues"
