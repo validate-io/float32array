@@ -2,7 +2,7 @@ Float32Array
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Validates if a value is an [Float32Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array).
+> Validates if a value is a [Float32Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array).
 
 
 ## Installation
@@ -22,7 +22,7 @@ var isFloat32Array = require( 'validate.io-float32array' );
 
 #### isFloat32Array( value )
 
-Validates if a value is an [Float32Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array).
+Validates if a value is a [Float32Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array).
 
 ``` javascript
 var arr = new Float32Array( 10 );
