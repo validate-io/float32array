@@ -8,7 +8,7 @@ Float32Array
 ## Installation
 
 ``` bash
-$ npm install validate.io-int8array
+$ npm install validate.io-float32array
 ```
 
 For use in the browser, use [browserify](https://github.com/substack/node-browserify).
